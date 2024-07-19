@@ -2,7 +2,7 @@
 
 <img src="./images/comparison.png" width="727" height="365" style="display: block; margin: auto;"/>
 
-This is the codebase for paper "GeoGuide: Geometric guidance of diffusion models".
+This is the official codebase for paper [GeoGuide: Geometric guidance of diffusion models](https://arxiv.org/abs/2407.12889).
 
 This repository is heavily based on [openai/guided-diffusion](https://github.com/openai/guided-diffusion). The only difference compared with the base implementation is that vanilla classifier guidance got changed to geometric classifier guidance (GeoGuide). 
 
